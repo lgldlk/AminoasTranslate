@@ -1,0 +1,33 @@
+{
+  "name": "AminoasTranslate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rspack serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rspack/core": "^1.0.0-alpha.3"
+  },
+  "dependencies": {
+    "@rspack/cli": "^1.0.0-alpha.3",
+    "@swc/helpers": "0.5.1",
+    "@rspack/plugin-react-refresh": "^0.5.1",
+    "browserslist": "^4.23.2",
+    "react": "19.0.0-beta-e7d213dfb0-20240507",
+    "react-dom": "19.0.0-beta-e7d213dfb0-20240507",
+    "react-refresh": "^0.14.2",
+    "sass": "^1.68.0",
+    "sass-loader": "^13.2.0",
+    "stylelint": "^14.14.0",
+    "stylelint-config-standard": "^29.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 10"
+  ]
+}
